@@ -2,4 +2,4 @@
 name = input("what is your name? ").strip().title()
 first,second = name.split(" ")
 # print hello
-print(f"hello,{second}",sep= " ")
+print(f"hello,{first}",sep= " ")
